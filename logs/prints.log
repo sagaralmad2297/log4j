@@ -1,0 +1,4 @@
+19:29:13.456 [main] DEBUG package2.beta - this is new message
+19:29:26.670 [main] DEBUG package2.beta - i am debuger
+19:29:26.672 [main] ERROR package2.beta - this is error message
+19:29:26.672 [main] DEBUG package2.beta - this is new message

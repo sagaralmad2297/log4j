@@ -1,0 +1,9 @@
+19:28:34.538 [main] DEBUG package2.beta - i am debuger
+19:28:34.548 [main] ERROR package2.beta - this is error message
+19:28:34.548 [main] DEBUG package2.beta - this is new message
+19:28:52.249 [main] ERROR package1.Demo - this is error message
+19:29:03.031 [main] DEBUG package2.beta - i am debuger
+19:29:03.032 [main] ERROR package2.beta - this is error message
+19:29:03.033 [main] DEBUG package2.beta - this is new message
+19:29:13.454 [main] DEBUG package2.beta - i am debuger
+19:29:13.455 [main] ERROR package2.beta - this is error message
